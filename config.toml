@@ -1,0 +1,11 @@
+baseurl = "http://dimbula2000.github.io/"
+# baseurl = "localhost"
+# canonifyurls = true
+languageCode = "ja-jp"
+title = "オオサカ堂で薬漬け"
+theme = "bleak"
+
+[Params]
+cover = "/images/cover.png"
+logo = "/images/logo.png"
+subtitle = "Be a rich affiliator!"
